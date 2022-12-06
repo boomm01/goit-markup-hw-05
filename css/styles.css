@@ -101,7 +101,6 @@ body{
 
 .current::after{
 	content: "";
-	width: 48px;
 	height: 4px;
 	background-color: var(--brand-color);
 	border-radius: 2px;
